@@ -1,0 +1,7 @@
+C:\Users\marco\source\repos\Login Corredores\Login Corredores\obj\Debug\Login Corredores.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\Login Corredores\Login Corredores\obj\Debug\Login Corredores.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\source\repos\Login Corredores\Login Corredores\obj\Debug\Login_Corredores.form1.resources
+C:\Users\marco\source\repos\Login Corredores\Login Corredores\obj\Debug\Login_Corredores.frmMenu.resources
+C:\Users\marco\source\repos\Login Corredores\Login Corredores\obj\Debug\Login_Corredores.Properties.Resources.resources
+C:\Users\marco\source\repos\Login Corredores\Login Corredores\obj\Debug\Login Corredores.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\Login Corredores\Login Corredores\obj\Debug\Login Corredores.csproj.CoreCompileInputs.cache
